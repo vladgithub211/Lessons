@@ -1,0 +1,176 @@
+.div2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(250, 9, 9);
+    transition: 0.8s;
+    margin-right: 10px;
+    margin-top: 10px;
+    
+}
+.div3{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(231, 118, 12);
+    transition: 0.8s;
+    margin-right: 10px;
+    margin-top: 10px;
+    
+}
+.div4{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(233, 236, 15);
+    transition: 0.8s;
+    margin-right: 10px;
+    margin-top: 10px;
+    
+}
+.div5{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(11, 240, 41);
+    transition: 0.8s;
+    margin-right: 10px;
+    margin-top: 10px;
+    
+}
+.div6{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(13, 217, 231);
+    transition: 0.8s;
+    margin-right: 10px;
+    margin-top: 10px;
+    
+}
+.div7{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(13, 100, 231);
+    transition: 0.8s;
+    margin-right: 10px;
+    margin-top: 10px;
+    
+}
+.div8{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(162, 13, 231);
+    transition: 0.8s;
+    margin-right: 10px;
+    margin-top: 10px;
+    
+}
+.div9{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(13, 231, 158);
+    transition: 0.8s;
+    margin-right: 10px;
+    margin-top: 10px;
+    
+}
+.div10{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(8, 41, 12);
+    transition: 0.8s;
+    margin-right: 10px;
+    margin-top: 10px;
+    
+}
+.div2:hover{
+    background-color: rgb(228, 224, 4);
+    transition: 0.8s;
+    height: 250px;
+    width: 250px;
+}
+.div2:active{
+    color: rgb(20, 100, 231);
+    background-color: rgb(17, 125, 248);
+    
+}
+.div3:hover{
+    background-color: rgb(240, 11, 240);
+    transition: 0.8s;
+    height: 250px;
+    width: 250px;
+}
+.div3:active{
+    color: rgb(255, 145, 0);
+    background-color: rgb(248, 152, 8);
+}
+.div4:hover{
+    background-color: rgb(19, 41, 235);
+    transition: 0.8s;
+    height: 250px;
+    width: 250px;
+}
+.div4:active{
+    color: rgb(26, 28, 29);
+    background-color: rgb(0, 60, 255);
+}
+.div5:hover{
+    background-color: rgb(31, 28, 31);
+    transition: 0.8s;
+    height: 250px;
+    width: 250px;
+}
+.div5:active{
+    color: rgb(211, 11, 238);
+    background-color: rgb(179, 13, 245);
+}
+.div6:hover{
+    background-color: rgb(14, 231, 25);
+    transition: 0.8s;
+    height: 250px;
+    width: 250px;
+}
+.div6:active{
+    color: rgba(11, 204, 238, 0.932);
+    background-color: rgb(198, 18, 243);
+}
+.div7:hover{
+    background-color: rgb(221, 15, 15);
+    transition: 0.8s;
+    height: 250px;
+    width: 250px;
+}
+.div7:active{
+    color: rgb(18, 224, 29);
+    background-color: rgb(235, 162, 25);
+}
+.div8:hover{
+    background-color: rgb(48, 227, 233);
+    transition: 0.8s;
+    height: 250px;
+    width: 250px;
+}
+.div8:active{
+    color: rgb(202, 21, 226);
+    background-color: rgb(19, 19, 18);
+}
+.div9:hover{
+    background-color: rgb(23, 53, 226);
+    transition: 0.8s;
+    height: 250px;
+    width: 250px;
+}
+.div9:active{
+    color: rgb(10, 228, 126);
+    background-color: rgb(219, 219, 46);
+}
+.div10:hover{
+    background-color: rgb(236, 166, 15);
+    transition: 0.8s;
+    height: 250px;
+    width: 250px;
+}
+.div10:active{
+    color: rgb(98, 11, 212);
+    background-color: rgb(19, 19, 18);
+}
+.div1{
+    flex-wrap: wrap;
+    display: flex;
+}

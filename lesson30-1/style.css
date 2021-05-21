@@ -1,0 +1,89 @@
+.a {
+    width: 8px;
+    height: 8px;
+    margin-left: 133px;
+    margin-top: 27px;
+    opacity: 1;
+    color:#8FC63D;
+}
+.b {
+    width: 8px;
+    height: 21px;
+    margin-left: 133px;
+    margin-top: 10px;
+    opacity: 1;
+    color:#8FC63D;
+}
+.c {
+    width: 8px;
+    height: 37px;
+    margin-left: 146px;
+    margin-top: -36px;
+    opacity: 1;
+    color:#8FC63D;
+}
+.d {
+    width: 8px;
+    height: 30px;
+    margin-left: 159px;
+    margin-top: -30px;
+    opacity: 1;
+    color:#8FC63D;
+}
+.text {
+    width: 168px;
+    height: 22px;
+    margin-left: 177px;
+    margin-top: -29px;
+    opacity: 1;
+    color:#6D6E70;
+}
+.home {
+    font-size: medium;
+    margin-left: 590px;
+    margin-top: -29px;
+    font-family: Monospace;
+}
+.howitworks {
+    font-size: medium;
+    margin-left: 700px;
+    margin-top: -37px;
+    font-family: Monospace;
+}
+.discoveraproject {
+    font-size: medium;
+    margin-left: 900px;
+    margin-top: -37px;
+    font-family: Monospace;
+}
+.blog {
+    font-size: medium;
+    margin-left: 1170px;
+    margin-top: -37px;
+    font-family: Monospace;
+}
+.findoutmore {
+    font-size: medium;
+    margin-left: 1290px;
+    margin-top: -37px;
+    font-family: Monospace;
+}
+.login {
+    margin-left: 1600px;
+    margin-top: -50px;
+    width: 101px;
+    height: 38px;
+    opacity: 0.8117647058823529;
+    color: #ADD136;
+}
+.logintext {
+    width: 40px;
+    height: 9px;
+    margin-left: 1090px;
+    margin-top: 40px;
+}
+
+.photo {
+    background-image: url(./img/7dc4b17ea389edf52afd235bc6800c45.jpg);
+    margin-top: 85px;
+}

@@ -1,0 +1,52 @@
+.box-box {
+    display: flex;
+}
+.box1 {background-color: aqua;
+    width: 550px;
+    height: 200px;
+    margin :100px 100px ;
+    display: flex;
+
+}
+img {
+    height: 290px;
+    width: 290px;
+    display: block ;
+    position: relative;
+    bottom: 50px;
+}
+}
+.text {
+    margin-top: 10px;
+    font-size: 20px;
+    text-shadow: 6px 6px 0px rgba(0, 0, 0, 2) ;
+}
+.box2 {
+    background-color: darkorange ;
+    width: 550px;
+    height: 200px;
+    margin :100px 100px ;
+    display: flex;
+    
+    
+}
+.box3 {
+    background-color: goldenrod ;
+    width: 550px;
+    height: 200px;
+    margin :100px 100px ;
+    display: flex;
+}
+.box4 {
+    background-color: darkred ;
+    width: 550px;
+    height: 200px;
+    margin :100px 100px ;
+    display: flex;
+}
+img.box4 {
+    margin-top: 20px;
+}
+h2 {
+    margin-top: 50px;
+}

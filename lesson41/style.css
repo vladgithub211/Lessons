@@ -1,0 +1,81 @@
+.crow {
+    color: #6D6E70;
+    position: relative;
+    left: 177px;
+    top: 33px;
+    width: 168px;
+    height: 22px;
+    opacity: 1;
+}
+.logo1 {
+    position: relative;
+    left: 125px;
+    top: 14px;
+    width: 8px;
+    height: 21px;
+    opacity: 1;
+    color: #8FC63D;
+}
+.logo2 {
+    position: relative;
+    left: 125px;
+    top: -25px;
+    width: 8px;
+    height: 8px;
+    opacity: 1;
+    color: #8FC63D;
+}
+.logo3 {
+    position: relative;
+    left: 140px;
+    top: -31px;
+    width: 8px;
+    height: 37px;
+    opacity: 1;
+    color: #8FC63D;
+}
+.logo4 {
+    position: relative;
+    left: 155px;
+    top: -61px;
+    width: 8px;
+    height: 21px;
+    opacity: 1;
+    color: #8FC63D;
+}
+.fon {
+    position: relative;
+    top: -25px;
+    width: 100%;
+    opacity: 1;
+}
+.text1 {
+    color:white;
+    font-size: 25px;
+    font-family: OpenSans-Semibold,OpenSans,AdobeInvisFont,MyriadPro-Regular;
+    position: absolute;
+    margin-top: -800px;
+    margin-left: 150px;
+}
+.button {
+    position: absolute;
+    margin-left: 730px;
+    margin-top: -600px;
+}
+h3 {
+    color:white;
+    position: absolute;
+    margin-left: 25px;
+    margin-top: -53px;
+    font-size: 20px;
+}
+.home {
+    font-family: Gill Sans, sans-serif;
+    color: #6D6E70;
+    font-size: 13px;
+    width: 520px;
+    height: 11px;
+    position: relative;
+    left: 525px;
+    top: -1175px;
+}

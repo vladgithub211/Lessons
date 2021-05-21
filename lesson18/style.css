@@ -1,0 +1,218 @@
+.box {
+    height: 900px;
+    width: 600px;
+    position: absolute;
+    left : 250px; 
+    top : 150px
+    
+}
+.hair {
+    height: 200px;
+    width: 300px;
+    background-color: brown;
+    border-radius: 100px 100px 1000px 1000px;
+    position: absolute;
+    left: 200px;
+    z-index: 2;
+    
+    
+}
+.hears {
+    height: 50px;
+    width: 300px;
+    
+}
+.hear1 {
+    height: 100px;
+    width: 50px;
+    position: absolute;
+    background-color: brown;
+    left: 0px ;
+    bottom: 150px;
+    border-radius: 10px 100px 1px 1px;
+
+}
+.hear2 {
+    height: 100px;
+    width: 50px;
+    background-color: brown;
+    position: absolute;
+    right: 0px;
+    bottom: 150px;
+    border-radius: 100px 10px 1px 1px;    
+}
+.eyes {
+    height: 50px;
+    width: 300px;
+
+
+}
+.eye1 {
+    height: 50px;
+    width: 100px;
+    background-color: gold;
+    position: absolute;
+    left: 10px;
+    border-radius: 1px 1px 100px 100px;
+    
+
+}
+.eye1_1 {
+    height: 25px;
+    width: 50px;
+    background-color: black;
+    border-radius: 1px 1px 100px 100px;
+    position: absolute;
+    left: 20px
+}
+.eye2 {
+    height: 50px;
+    width: 100px;
+    background-color: gold;
+    border-radius: 10px 1px 100px 100px;
+    position: absolute;
+    right: 10px ;
+}
+.eye2_2 {
+    height: 25px;
+    width: 50px;
+    background-color: black;
+    border-radius: 1px 1px 100px 100px;
+    position: absolute;
+    right: 20px;
+}
+.noys {
+    height: 40px;
+    width: 80px;
+    background-color: black;
+    border-radius: 1px 1px 100px 100px;
+    position: absolute;
+    left: 110px;
+    top : 50px
+}
+.noys1 {
+    height: 80px;
+    width: 5px;
+    background-color: black ;
+    position: absolute;
+    left: 40px;
+    z-index: 2;
+
+}
+.noys2 {
+    height: 70px;
+    width: 70px;
+    border-radius: 100px;
+    background-color: black;
+    position: absolute;
+    top: 70px;
+    left: 7px;
+
+}
+
+.noys2-shadows {
+    height: 70px;
+    width: 70px;
+    border-radius: 100px;
+    background-color: brown;
+    position: absolute;
+    top: 80px ;
+    left : 7px ;
+
+}
+.body {
+    height: 400px;
+    width: 200px;
+    background-color: brown;
+
+    
+
+    border-bottom-left-radius: 20000px;
+    border-top-left-radius: 100500px;
+
+    z-index: 1;
+    position: absolute;
+    left : 150px;
+    top : 50px
+
+
+}
+
+
+.leng1 {
+    height: 200px;  
+    width: 60px;
+    background-color: brown;
+    border-radius: 80px ;
+    position: absolute;
+    border-radius: 1px 500px 500px 10px ;
+    left: 16px ;
+    bottom: 8px ;
+    z-index: 2;
+
+}
+
+.leng1-shadow {
+    height: 200px;  
+    width: 60px;
+    background-color: rgb(197, 133, 14);
+    border-radius: 1px 500px 500px 10px ;
+    position: absolute;
+    left: 20px ;
+    bottom: 30px ;
+    z-index: 1;
+
+}
+.leng2 {
+    height: 200px;
+    width: 25px;
+    background-color: rgb(197, 133, 14);
+    position:absolute ;
+    left : 90px;
+    bottom: 0px;    
+}
+.leng2-1 {
+    height: 50px;
+    width: 60px;
+    position: absolute;
+    background-color: rgb(197, 133, 14);
+
+    bottom: 0px;
+    border: -10 ;
+    left : 90px; 
+    border-radius: 1px 100px 1px 10px ;
+    
+}
+.leng3 {
+    height: 200px;
+    width: 25px;
+    background-color: rgb(94, 0, 0);
+    position: absolute ;
+    left : 175px;
+    bottom: 0px;
+}
+.leng3-1 {
+    height: 50px;
+    width: 60px;
+    position: absolute;
+    background-color: rgb(94, 0, 0);
+    bottom: 0px;
+    border: -10 ;
+    left : 175px; 
+    border-radius: 1px 100px 1px 10px ;
+}
+
+
+
+.hvoct {
+    height: 50px;
+    width: 200px;
+    background-color: brown;
+    position: absolute;
+    right: 150px;
+    bottom:  30px ;
+    border-radius: 50px ;
+    z-index: -1;
+
+}
+

@@ -1,0 +1,375 @@
+
+.header{
+    width: 100%;
+    height: 650px;
+    background-color: #F6F2F2;
+}
+.nav{
+    width: 80%;
+    height: 90px;
+    background-color: #000000;
+    opacity: 0.8;
+    margin-top: 28px;
+    margin-left: 10%;
+
+    
+}
+.nav2{
+    font-size: 14px;
+    color: #E0E0E0; 
+    padding-left: 50px;
+}
+.nav1{
+    display: flex;
+    padding-left: 35%;
+}
+#idnav1{
+    padding-top: 35px;
+    
+}
+.n1d1{
+    height: 55px;
+    width: 130px;
+    background-color: red;
+}
+.n1d2{
+    height: 50px;
+    width: 130px;
+}
+.n1d3{
+    height: 50px;
+    width: 130px;
+}
+.n1d4{
+    height: 50px;
+    width: 130px;
+}
+.contenttext{
+    width: 500px;
+    height: 600px;
+    padding-left: 180px;
+}
+.ch{
+    padding-top: 50px;
+}
+.cp{
+    padding-top: 10px;
+}
+.c1button{
+    padding-top: 50px;
+}
+.h60{
+    font-size: 60px;
+    color: #000000;
+}
+.p15{
+    opacity: 0.7019607843137254;
+    color: black;
+    font-size: 15px;
+}
+.abutton{
+    padding: 15px;
+    background-color: #FF2D2D;
+    text-decoration: none;
+    color: #ffffff;
+}
+.video{
+    width: 600px;
+    height: 400px;
+    background-color: #e7eca0;
+    margin-left: 60%;
+    position: relative;
+    bottom: 500px;
+}
+.header2{
+    width: 90%;
+    height: 650px;
+    padding-left: 160px;
+    display: flex;
+
+    
+}
+.d2text{
+    width: 400px;
+    height: 600px;
+    padding-top: 70px;
+}
+.h1{
+    opacity: 0.8;
+    color: #000;
+    font-size: 42px;
+}
+.p16{
+    font-size: 16px;
+    color: #000;
+    padding-top: 30px;
+
+}
+.a2{
+    background-color: white;
+    border: 2px solid red;
+    color: red;
+    padding: 15px;
+    text-decoration: none;
+}
+.button2{
+    padding-top: 50px;
+}
+.p2p16{
+    opacity: 0.7019607843137254;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+}
+.h27{
+    opacity: 0.7019607843137254;
+    font-size: 27px;
+    color: rgb(0, 0, 0);
+}
+.d1g{
+    width: 300px;
+    height: 500px;
+    padding-top: 100px;
+    padding-left: 200px;
+}
+.content2g{
+    padding-top: 50px;
+}
+.d2g{
+    width: 300px;
+    height: 500px;
+    padding-top: 100px;
+    padding-left: 200px;
+}
+.poloska{
+    width: 100%;
+    height: 1px;
+    background-color: black;
+}
+.h38{
+    font-size: 38px;
+    opacity: 0.8;
+
+}
+.header3{
+    width: 100%;
+    height: 1000px;
+
+}
+.h3texth{
+    width: 400px;
+    height: 200px;
+    padding-left: 50%;
+}
+.poloska2{
+    background-color: red;
+    width: 100px;
+    height: 1px;
+    margin-left: 30%;
+}
+.h22{
+    font-size: 22px;
+    opacity: 0.7019607843137254;
+    padding-left: 30px;
+}
+.h22red{
+    font-size: 22px;
+    opacity: 0.7019607843137254;
+    padding-left: 30px;
+    color: red;
+}
+.primer{
+    width: 700px;
+    height: 40px;
+    padding-left: 35%;
+}
+.image{
+    padding-left: 20%;
+    
+    
+}
+.img{
+    height: 250px;
+    width: 300px;
+    background-color: rgb(183, 221, 228);
+    margin: 3px;
+}
+.image1g{
+    display: flex;
+}
+.image2g{
+    display: flex;
+}
+.header31{
+    padding-top: 50px;
+    padding-left: 50px;
+    display: flex;
+
+}
+.textimg{
+    padding-left: 150px;
+    width: 380px;
+    height: 570px;
+}
+
+.poloska3{
+    width: 60px;
+    height: 1px;
+    background-color: red;
+    margin-top: 20px;
+}
+.img2{
+    width: 300px;
+    height: 400px;
+    background-color: rgb(159, 151, 197);
+    margin-top: 50px;
+}
+.texth31{
+    width: 400px;
+    height: 500px;
+    padding-top: 180px;
+}
+.twit{
+    width: 200px;
+    height: 30px;
+    display: flex;
+}
+.twitp{
+    padding-left: 30px;
+}
+.twitimg{
+    background-color: rgb(224, 207, 207);
+    width: 230px;
+    height: 200px;
+    margin-left: 15px;
+}
+.imgtwit{
+    display: flex;
+    padding-top: 30px;
+}
+.header41{
+    background-color: #e7eca0;
+    width: 100%;
+    height: 400px;
+    text-align: center;
+}
+.h42{
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 70px;
+    font-size: 42px;
+}
+.p15w{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 15px;
+    
+}
+.input{
+    height: 40px;
+    width: 400px;
+    border: none;
+}
+.buttonh4{
+    width: 100px;
+    height: 40px;
+    background-color: #FF2D2D;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 50px;
+    text-decoration: none;
+    color: white;
+    
+    
+}
+.buttonh4div{
+    display: flex;
+    padding-left: 700px;
+    padding-top: 50px;
+    text-align: center;
+}
+.ssilka{
+    text-align: center;
+}
+.header5{
+    width: 100%;
+    height: 600px;
+    background-color: white;
+    display: flex;
+}
+.forma{
+    width: 700px;
+    height: 500px;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.poloskaf{
+    width: 100px;
+    height: 1px;
+    background-color: red;
+    margin-top: 20px;
+}
+.hh5{
+    opacity: 0.8;
+    color: #000000;
+    font-size: 38px;
+}
+.ph5{
+    opacity: 0.7019607843137254;
+    color: #000000;
+    font-size: 15px;
+}
+.input2{
+    width: 300px;
+    height: 30px;
+    border: none;
+    background-color: rgb(211, 211, 211);
+    margin-top: 50px;
+}
+.input3{
+    width: 600px;
+    height: 200px;
+    border: none;
+    background-color: rgb(211, 211, 211);
+    margin-top: 50px;
+    
+}
+.ssilkaf{
+    width: 500px;
+    height: 40px;
+    background-color: #FF2D2D;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 30px;
+}
+.ssilkafs{
+    text-decoration: none;
+    color: white;
+
+}
+.ssilkap{
+    padding-left: 70px;
+    padding-top: 10px;
+    
+}
+.contact{
+    width: 500px;
+    height: 400px;
+    background-color: #2D2D2D;
+    margin-left: 500px;
+    margin-top: 300px;
+}
+.contacth{
+    padding-top: 80px;
+    padding-left: 30px;
+}
+.ch1{
+    opacity: 0.8;
+    color: #FFFFFF;
+    font-size: 16px;
+    padding-top: 20px;
+}
+.ch11{
+    opacity: 0.8;
+    color: #FFFFFF;
+    font-size: 18px;
+}

@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 100%;
+    background-color: rgb(245, 13, 13);
+}
+div ul{
+    list-style: none;
+    background-color: black;
+    position: relative;
+    color: ivory;
+}
+a{
+    text-decoration: none;
+    color: lavender;
+    text-align: center;
+    transition: 2s;
+}
+div > ul > li{
+    float: left;
+}
+div ul::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+div ul li a{
+    display: inline-block;
+    padding: 10px 50px;
+    width: 125px;
+    text-decoration: none;
+}
+div ul li a:hover{
+    background-color: #950740;
+}
+div ul ul {
+    display: none;
+    position: absolute;
+}
+div li:hover >ul{
+    display: block;
+}
+@media screen and (max-width:500px){
+.box{
+    width: 50%;
+    background-color: black;
+}
+.box ul li a{
+    display: inline-block;
+    padding: 5px 50px;
+    width: 40px;
+    font-size: 10px;
+    text-decoration: none;
+}
+.box >ul >li {
+    float: right;
+}
+.box li:hover > ul{
+    display: inline-block;
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+}
+}

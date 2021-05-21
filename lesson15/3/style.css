@@ -1,0 +1,128 @@
+input{
+    margin: 10px;
+}
+.in1{
+    box-shadow: 0px 0px 0px 2px rgb(223, 37, 37);
+    border-radius: 20px;
+}
+.in1:hover{
+    box-shadow: 0px 0px 0px 3px rgb(241, 238, 7);
+    border-radius: 10px;
+}
+.in1:active{
+    box-shadow: 0px 0px 0px 3px rgb(6, 10, 241);
+    border-radius: 10px;
+}
+.in2{
+    box-shadow: 0px 0px 0px 2px rgb(12, 8, 223);
+    border-radius: 20px;
+}
+.in2:hover{
+    box-shadow: 0px 0px 0px 3px rgb(238, 15, 15);
+    border-radius: 10px;
+}
+.in2:active{
+    box-shadow: 0px 0px 0px 3px rgb(6, 241, 37);
+    border-radius: 10px;
+}
+.in3{
+    box-shadow: 0px 0px 0px 2px rgb(209, 245, 8);
+    border-radius: 20px;
+}
+.in3:hover{
+    box-shadow: 0px 0px 0px 3px rgb(24, 24, 22);
+    border-radius: 10px;
+}
+.in3:active{
+    box-shadow: 0px 0px 0px 3px rgb(221, 6, 241);
+    border-radius: 10px;
+}
+.in4{
+    box-shadow: 0px 0px 0px 2px rgb(8, 245, 87);
+    border-radius: 20px;
+}
+.in4:hover{
+    box-shadow: 0px 0px 0px 3px rgb(235, 235, 18);
+    border-radius: 10px;
+}
+.in4:active{
+    box-shadow: 0px 0px 0px 3px rgb(127, 6, 241);
+    border-radius: 10px;
+}
+.in5{
+    box-shadow: 0px 0px 0px 2px rgb(8, 198, 245);
+    border-radius: 20px;
+}
+.in5:hover{
+    box-shadow: 0px 0px 0px 3px rgb(235, 12, 12);
+    border-radius: 10px;
+}
+.in5:active{
+    box-shadow: 0px 0px 0px 3px rgb(16, 2, 17);
+    border-radius: 10px;
+}
+.in6{
+    box-shadow: 0px 0px 0px 2px rgb(111, 8, 245);
+    border-radius: 20px;
+}
+.in6:hover{
+    box-shadow: 0px 0px 0px 3px rgb(22, 24, 23);
+    border-radius: 10px;
+}
+.in6:active{
+    box-shadow: 0px 0px 0px 3px rgb(190, 241, 6);
+    border-radius: 10px;
+}
+.in7{
+    box-shadow: 0px 0px 0px 2px rgb(245, 8, 67);
+    border-radius: 20px;
+}
+.in7:hover{
+    box-shadow: 0px 0px 0px 3px rgb(11, 60, 219);
+    border-radius: 10px;
+}
+.in7:active{
+    box-shadow: 0px 0px 0px 3px rgb(24, 27, 24);
+    border-radius: 10px;
+}
+.in8{
+    box-shadow: 0px 0px 0px 2px rgb(8, 217, 245);
+    border-radius: 20px;
+}
+.in8:hover{
+    box-shadow: 0px 0px 0px 3px rgb(197, 114, 18);
+    border-radius: 10px;
+}
+.in8:active{
+    box-shadow: 0px 0px 0px 3px rgb(241, 6, 210);
+    border-radius: 10px;
+}
+.in9{
+    box-shadow: 0px 0px 0px 2px rgb(8, 245, 40);
+    border-radius: 20px;
+}
+.in9:hover{
+    box-shadow: 0px 0px 0px 3px rgb(82, 14, 170);
+    border-radius: 10px;
+}
+.in9:active{
+    box-shadow: 0px 0px 0px 3px rgb(6, 108, 241);
+    border-radius: 10px;
+}
+.in10{
+    box-shadow: 0px 0px 0px 2px rgb(241, 245, 8);
+    border-radius: 20px;
+}
+.in10:hover{
+    box-shadow: 0px 0px 0px 3px rgb(226, 148, 3);
+    border-radius: 10px;
+}
+.in10:active{
+    box-shadow: 0px 0px 0px 3px rgb(241, 6, 210);
+    border-radius: 10px;
+}
+
+
+
+
+

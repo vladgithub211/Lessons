@@ -1,0 +1,114 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    background-image: url(./img/derevo_tekstura_fon_ten_50458_1920x1080.jpg);
+}
+.head{
+    background-color: brown;
+    height: 200px;
+    margin-bottom: 10px;
+    background-image:  url(./img/hong-kong-864884_1920.jpg);
+    border: 2px;
+    border-radius: 30px;
+}
+.sidebar{
+    background-color: yellow;
+    height: 980px;
+    margin-bottom: 10px;
+    width: 15%;
+    float: left;
+    border: 2px;
+    border-radius: 30px;
+    background-image: url(./img/fon123.jpg);
+    
+}
+.content{
+    background-color: green;
+    height: 980px;
+    margin-bottom: 10px;
+    width: 69.45%;
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-image: url(./img/luxfon.com_4391.jpg);
+    border: 2px;
+    border-radius: 30px;
+}
+.footer{
+    background-color: grey;
+    height: 200px;
+    font-size: 25px;
+    border-radius: 30px;
+    background-image: url(./img/unnamed.jpg);
+    color: whitesmoke;
+    
+}
+.sidebar-2{
+    background-color: yellow;
+    height: 980px;
+    margin-bottom: 10px;
+    width: 15%;
+    float: left;
+    border: 2px;
+    border-radius: 30px;
+    background-image: url(./img/fon123.jpg);
+}
+
+.u:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+h1{
+    font-size: 90px;
+    color: gold;
+    display: block;
+    margin: auto;
+    padding-top: 40px ;
+}
+.c{
+    border: 2px;
+    border-radius: 30px;
+
+}
+.b{
+    border: 2px;
+    border-radius: 30px;  
+}
+.a{
+    border: 2px;
+    border-radius: 30px;
+    margin-left: 110px;
+}
+table{
+    border: groove;
+    border-radius: 30px;
+    padding: 15px;
+}
+.car{
+    margin-top: 60  px;
+}
+.car5{
+    padding-top: 0.1px;
+}
+img{
+    border:3px;
+    border-radius: 30px;
+}
+.p{
+    padding-top: 50px;
+    font-size: 30px;
+}
+h2{
+    font-size: 30px;
+}
+a{
+    
+    color: rgb(29, 46, 49);
+}
+
+
+
+
+
+

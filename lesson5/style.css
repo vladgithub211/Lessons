@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(170, 67, 67);
+}
+img{
+    margin: auto;
+    display: block;
+}
+.test {
+  margin: 10px 20px 30px 400px;
+}
+.test2{
+    margin: 10px 200px 300px 50px;
+}

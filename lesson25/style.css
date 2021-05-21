@@ -1,0 +1,14 @@
+.grid div{
+    background-color: blue;
+    border: 1px solid black;
+    border-radius: 5px;
+    
+}
+.grid {
+    display: grid;
+    grid-template-columns: minmax(100px,auto) 1fr 1fr;
+    grid-gap: 20px;
+    grid-template-rows: 100px 100px 100px 100px 100px;
+    grid-auto-flow: column;    
+
+}

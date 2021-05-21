@@ -1,0 +1,56 @@
+#a1{
+    font-size: 20px;
+    text-shadow: 0px 0px 1px  black;
+    text-decoration: none;
+    line-height: 30px;
+}
+#a1:hover{
+    font-size: 40px;
+    transition: 0.8s;
+}
+.a1:active{
+    background-color: cyan;
+    color: blue;
+}
+.a2:active{
+    background-color: rgb(17, 0, 255);
+    color: rgb(27, 233, 8);
+}
+.a3:active{
+    background-color: rgb(255, 0, 43);
+    color: rgb(24, 22, 2);
+}
+.a4:active{
+    background-color: rgb(233, 218, 8);
+    color: brown;
+}
+.a5:active{
+    background-color: rgb(24, 22, 2);
+    color: slateblue;
+}
+.a6:active{
+    background-color: rgb(8, 233, 27);
+    color: cornflowerblue;
+}
+.a7:active{
+    background-color: rgb(214, 8, 233);
+    color: yellow;
+}
+.a8:active{
+    background-color: rgb(27, 233, 8);
+    color: violet;
+}
+.a9:active{
+    background-color: rgb(8, 233, 214);
+    color: rgb(27, 233, 8);
+}
+.a10:active{
+    background-color: rgb(233, 8, 120);
+    color: gold;
+}
+
+
+
+
+
+

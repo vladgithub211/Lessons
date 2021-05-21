@@ -1,0 +1,39 @@
+body{
+    background: rgb(229,249,13);
+    background: radial-gradient(circle, rgba(229,249,13,1) 0%, rgba(18,220,227,1) 100%);
+}
+#div0{
+height: 130px;
+width: 500px;
+background-color: cyan;
+margin: 40px 20px;
+border-radius: 20px;
+overflow: hidden;
+border: 5px solid #14b9cf;
+transition: all 0.8s;
+}
+.papa{
+    display: flex;
+    justify-content: space-around;
+    height: 600px;
+    align-items: center;
+}
+#div0:hover{
+    height: 300px;
+    width: 350px;
+    margin: 35px    35px;
+    
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+.title{
+    height: 200px;
+    width: 200px;
+    margin-top: -100px;
+}
+
+
+
+

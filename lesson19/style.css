@@ -1,0 +1,142 @@
+
+.d3{
+    height: 500px;
+    width: 448px;
+    margin-top: 50px;
+    
+}
+#reg{
+    position: relative;
+    top: 20px;
+}
+#inp1{
+    height: 48px;
+    width: 362px;
+    background-color: rgb(255, 255, 255);
+    margin: 15px;
+}
+.reg2{
+    border-color: #80868b;
+    
+}
+.reg2:focus{
+    box-shadow: 0px 0px 2px 2px rgb(6, 6, 255);
+}
+.fab{
+    font-size: 50px;
+    color: blue;
+}
+
+#reg1{
+    color: #202124;
+    font-size: 24px;
+    font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+    
+}
+#reg2{
+    color: #202124;
+    font-size: 16px;
+    font-family: roboto,'Noto Sans Myanmar UI',arial,sans-serif;
+    position: relative;
+    bottom: 10px;
+}
+#a2{
+    display: inline-block;
+    border-radius: 4px;
+    color: #1a73e8;
+    cursor: pointer;
+    font-weight: 500;
+    position: relative;
+    background-color: white;
+    font-size: inherit;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    
+}
+.a2{
+    position: relative;
+    right: 55px;
+    
+}
+.p1{
+    color:#5f6368;
+    font-size: 14px;
+    position: relative;
+    right: 20px;
+    }
+.p2{
+    color:#5f6368;
+    font-size: 14px;
+    right: 73px;
+    position: relative;
+}
+.comp{
+    padding-bottom: 3px;
+    padding-top: 25px;
+    white-space: normal;
+}
+.ssilca{
+    text-decoration: none;
+-moz-border-radius: 4px;
+border-radius: 4px;
+color: #1a73e8;
+display: inline-block;
+font-weight: 500;
+letter-spacing: .25px;
+outline: 0;
+position: relative;
+font-size: 14px;
+}
+.a3{
+    right: 75px;
+    top: 50px;
+    font-size: 10px;
+    font-size: inherit;
+    letter-spacing: .25px;
+    font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+    
+}
+.b1{
+    background-color: rgb(45, 45, 255);
+    color: rgb(255, 255, 255);
+    height: 38px;
+    width: 92px;
+    top: 50px;
+    left: 70px;
+    position: relative;
+}
+.b1:hover{
+    color: rgb(255, 255, 255);
+    background-color:rgb(24, 24, 173);
+    transition: 0.8s;
+}
+.div2{
+    position: relative;
+    left: 580px;
+    top: 20px;
+}
+#foot1{
+    margin: 10px;
+    color: #5f6368;
+    text-decoration: none;
+    font-size: 14px;
+}
+#foot2{
+    right: 140px;
+    position: relative;
+    color: #5f6368;
+    text-decoration: none;
+    font-size: 14px;
+}
+.TquXA{border-color: currentColor transparent transparent transparent;
+border-style: solid;
+border-width: 4px 4px 0 4px;
+height: 0;
+width: 0;
+right: 85px;
+bottom: 10px;
+position: relative;
+color: #5f6368;
+}
